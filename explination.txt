@@ -1,0 +1,11 @@
+The only known way to hack this is with basic overflow. And a bit of regressions menu.
+For the first glitch you press [mode] [2] then [ac] 0.5 seconds after pressing [ac] press [on]. Reg shoud be indicated in the top and when pressing [shift] [1] you should see reg
+after this press [5] or [4] it doesnt seem to matter which one it is. now behind it type stuff like 4F4F4F4Fx^ or y^ pressing [=] willl make the screen contrast glitch out and sometimes leave the top indicators on.
+
+Now for basic overflow glitches go into comp mode and press [shift] [9] [3] [=]+[on] the equals and on should be pressed at the same time. if you did it correctly you will see its in linio now.
+Type [2] [^(] [2] [=] [shift] [9] [1] [=] [up] [left] [delete] [right] [delete] [left] [delete] [right] [right] now type some 5x[V(] [delete until something happens and then you will see some cursed square roots and how this happens is because you are getting rid of the mathio dynamic characters for example AV(B1 shows some broken square roots. See the first edition hacking for more info on this.
+
+instead of doing that you can type 191 characters then type 100 caharacters then [ac] [left] [=] to run rop code but because its mathio you cant really do much with it.
+
+Note: classwiz hacks may apply to this calculator because it uses a CY rom to be specific a CY863 rom and classwiz uses CY roms.
+      Look at the es plus 2nd edition hacks aswell because they may help with the hacks.
